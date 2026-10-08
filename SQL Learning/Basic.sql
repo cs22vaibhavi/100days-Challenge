@@ -14,10 +14,10 @@ CREATE TABLE students (
 
 INSERT INTO students VALUES
 (1, 'Vaibhavi', 21, 'CSE', 85,'Kumta'),
-(2, 'Anu', 20, 'CSE', 72, 'Mangalore'),
-(3, 'Rahul', 22, 'ECE', 91, 'Bangalore'),
-(4, 'Priya', 21, 'CSE', 65, 'Udupi'),
-(5, 'Kiran', 22, 'ECE', 78, 'Mysore');
+(2, 'Anu', 20, 'CSE', 72,'Mangalore'),
+(3, 'Rahul', 22, 'ECE', 91,'Bangalore'),
+(4, 'Priya', 21, 'CSE', 65,'Udupi'),
+(5, 'Kiran', 22, 'ECE', 78,'Mysore');
 
 
 -- 3. Display all students
