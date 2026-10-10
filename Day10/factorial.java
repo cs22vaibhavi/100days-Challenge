@@ -10,4 +10,6 @@ class Main {
 
         System.out.println("Factorial = " + fact);
     }
+    
 }
+
