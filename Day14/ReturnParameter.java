@@ -18,7 +18,7 @@ class Main {
     // Parameters: double b, double h
     // Return type: double
     static double area(double b, double h) {
-        return 0.5 * b * h;
+        return 0.5 * b * h ;
     }
 
     public static void main(String[] args) {
