@@ -2,7 +2,7 @@ class BankAccount {
     private int balance = 1000;
 
   //deposit
-    void deposit(int amount) {
+    void deposit(int amount){
         balance = balance + amount;
     }
 
