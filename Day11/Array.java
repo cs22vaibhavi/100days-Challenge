@@ -14,7 +14,6 @@ class Main {
         System.out.println("Average:"+average);
         System.out.println("Minimum:"+min);
         System.out.println("Minimum:"+max);
-                
-    }
+        }
 
 }
