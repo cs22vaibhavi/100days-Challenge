@@ -1,4 +1,4 @@
-INSERT INTO students (id, name, email, dob, course)
+INSERT INTO students(id, name, email, dob, course)
 VALUES
 (1, 'Vaibhavi', 'vaibhavi@gmail.com', '2005-06-15', 'CSE'),
 (2, 'Rahul', 'rahul@gmail.com', '2004-12-20', 'ECE'),
