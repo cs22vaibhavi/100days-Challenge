@@ -1,5 +1,5 @@
-class Main {
-    public static void main(String[] args) {
+class Main{
+    public static void main(String[] args){
 
         int day = 3;
 
