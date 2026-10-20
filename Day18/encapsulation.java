@@ -1,4 +1,4 @@
-class BankAccount {
+class BankAccount{
     private int balance = 1000;
 
   //deposit
@@ -7,12 +7,12 @@ class BankAccount {
     }
 
   //withdraw
-    void withdraw(int amount) {
+    void withdraw(int amount){
         balance = balance - amount;
     }
 
   //getbalance
-    int getBalance() {
+    int getBalance(){
         return balance;
     }
 
