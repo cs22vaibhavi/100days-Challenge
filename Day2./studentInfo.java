@@ -1,8 +1,8 @@
 class StudentInfo {
     public static void main(String[] args) {
 
-        String name = "Vaibhavi";
-        int age = 20;
+        String name ="Vaibhavi";
+        int age =20;
         int rollNumber = 101;
         double gpa = 8.5;
         boolean enrolled = true;
