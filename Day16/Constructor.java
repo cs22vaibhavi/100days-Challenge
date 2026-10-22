@@ -4,14 +4,14 @@ class Student{
     int marks;
 
     //default constructor
-    Student(){
+    Student() {
         name="unknown";
         rollNo=0;
         marks=0;
     }
 
     //Overloaded constructor
-    Student(String n,int r,int m){
+    Student(String n,int r,int m) {
         name=n;
         rollNo=r;
         marks=m;
@@ -24,7 +24,7 @@ class Student{
         System.out.println();
     }
     
-    public static void main(String[] args){
+    public static void main(String[] args) {
          // Using default constructor
         Student s1 = new Student();
 
